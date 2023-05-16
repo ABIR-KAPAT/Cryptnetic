@@ -1,0 +1,40 @@
+{
+  "bought": [
+    {
+      "name": "Bitcoin",
+      "price": "230000",
+      "boughtat": "460000",
+      "id": 1
+    },
+    {
+      "name": "XRP",
+      "price": "34.04",
+      "boughtat": 68.08,
+      "id": 2
+    },
+    {
+      "name": "Hedera",
+      "price": "4.16",
+      "boughtat": 12.48,
+      "id": 3
+    },
+    {
+      "name": "Tether",
+      "price": "82.18",
+      "boughtat": 82.18,
+      "id": 4
+    },
+    {
+      "name": "Dogecoin",
+      "price": "5.81",
+      "boughtat": 11.62,
+      "id": 5
+    },
+    {
+      "name": "XRP",
+      "price": "35.31",
+      "boughtat": 353.1,
+      "id": 6
+    }
+  ]
+}
